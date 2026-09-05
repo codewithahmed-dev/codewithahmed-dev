@@ -47,118 +47,110 @@
 </td>
 <td width="70%" valign="top">
 
-## WHO AM I?
+<h2>WHO AM I?</h2>
 
 I’m Ahmed Nakhwa — an Electronics and Telecommunication engineer who enjoys building at the intersection of software, electronics, IoT, and people.
 
 My favourite part of engineering is taking an idea that exists only as a sketch, circuit, or rough thought and turning it into something people can actually use. From automated plant care and touch-controlled homes to data dashboards and community platforms, I like making complex things feel simple.
 
-I’m currently entering my next chapter with Deloitte USI while continuing to sharpen my software engineering skills in C++, Python, data, full-stack development, and system thinking.
-
-<br />
+I’m currently pursuing my B.E. in EXTC at Thadomal Shahani College of Engineering, Mumbai. Before that, I completed my diploma with a reported 90.24% and topped six semesters. That journey taught me to learn fast, stay curious, and finish what I start.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:110000,50:e91515,100:080b12&height=145&text=BUILD%20MODE%3A%20ON&fontSize=34&fontColor=ffffff&desc=From%20circuits%20to%20cloud&descAlignY=74&descSize=15" width="92%" alt="Build mode on" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080b12,50:5a0000,100:ff1717&height=115&text=BUILD%20MODE%3A%20ON&fontSize=31&fontColor=ffffff&animation=fadeIn&desc=Hardware%20thinking.%20Software%20execution.&descAlignY=75&descSize=14" width="96%" alt="Build mode on" />
 </div>
 
-<br />
+<h2>SELECTED BUILDS</h2>
 
-> ⚠️ **CAUTION**  
-> Code is never finished. It only gets better.  
-> What you see here is built with practice, curiosity, and persistence.
-
-## SELECTED BUILDS
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" bgcolor="#180b0d">
+<td width="50%" valign="top">
 
-### 🌱 Smart Plant Care Assistant
+<h3>🌱 Smart Plant Care Assistant</h3>
 
-An IoT plant-care system that monitors plant conditions and automates irrigation, fertilizer control, and growth tracking.
+ESP8266 + MQTT + IoT sensors for automated irrigation, live plant monitoring, and smarter everyday care.
 
-<code>ESP8266</code> <code>MQTT</code> <code>IoT Sensors</code> <code>Automation</code>
+<a href="https://github.com/codewithahmed-dev/club-report"><img src="https://img.shields.io/badge/VIEW%20BUILD-ff1717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Plant Care build" /></a>
 
 </td>
-<td width="50%" bgcolor="#180b0d">
+<td width="50%" valign="top">
 
-### 🏠 TouchSense Smart Home
+<h3>🏠 TouchSense Smart Home</h3>
 
-A touch-activated controller that makes regular appliances wirelessly controllable through an app and connected hardware.
+A touch-activated IoT controller using ESP8266, HC-05, Wi-Fi, fingerprint authentication, an app, and Embedded C.
 
-<code>ESP8266</code> <code>HC-05</code> <code>Wi-Fi</code> <code>Embedded C</code>
+<a href="https://github.com/codewithahmed-dev/unus-group"><img src="https://img.shields.io/badge/VIEW%20BUILD-ff1717?style=for-the-badge&logo=github&logoColor=white" alt="View TouchSense build" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#180b0d">
+<td width="50%" valign="top">
 
-### 🔋 Smart Powerbank
+<h3>🔋 Smart Powerbank</h3>
 
-A compact multi-cell powerbank concept with battery-management protection, dual outputs, and app-based monitoring.
+A multi-cell BMS concept with STM32 control, MQTT telemetry, and app-based monitoring for safer portable power.
 
-<code>BMS</code> <code>MQTT</code> <code>STM32</code> <code>App</code>
+<a href="https://github.com/codewithahmed-dev/vlsi1"><img src="https://img.shields.io/badge/VIEW%20BUILD-ff1717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Powerbank build" /></a>
 
 </td>
-<td width="50%" bgcolor="#180b0d">
+<td width="50%" valign="top">
 
-### 🧩 Corporate Web Platform
+<h3>⚡ Corporate Web Platform</h3>
 
-A responsive multi-division business platform designed to present services, teams, enquiries, and digital workflows in one place.
+A multi-division platform built with React, Next.js, TypeScript, Tailwind CSS, and Firebase.
 
-<code>React</code> <code>Next.js</code> <code>TypeScript</code>
+<a href="https://github.com/codewithahmed-dev/codewithahmed-dev"><img src="https://img.shields.io/badge/VIEW%20BUILD-ff1717?style=for-the-badge&logo=github&logoColor=white" alt="View web platform build" /></a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://ahmed-nakhwa-dev.ahmednakhwa-dev.chatgpt.site/"><img src="https://img.shields.io/badge/VIEW%20THE%20FULL%20PORTFOLIO-ff1717?style=for-the-badge&logo=vercel&logoColor=white" alt="View full portfolio" /></a>
-</div>
-
 </td>
 </tr>
 </table>
 
-## MY CONTRIBUTION SIGNAL
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithahmed-dev&bg_color=080b12&color=ff4b4b&line=ff1b1b&point=ffffff&area=true&hide_border=true" width="96%" alt="Contribution graph" />
-</div>
-
-## CURRENT LOADOUT
+<h2>THE STACK</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nextjs,tailwind,typescript,firebase,mysql,git,github,arduino,raspberrypi,figma&perline=8" alt="Ahmed's technology stack" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy%20%7C%20Matplotlib%20%7C%20Scikit--learn-ff1717?style=for-the-badge" alt="Data stack" />
-  <img src="https://img.shields.io/badge/Tools-Power%20BI%20%7C%20VS%20Code%20%7C%20Arduino%20IDE-111827?style=for-the-badge&logoColor=white" alt="Tools stack" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
 </div>
 
-## GITHUB SIGNALS
+<h2>GITHUB SIGNALS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codewithahmed-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codewithahmed-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=codewithahmed-dev&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats-shion.vercel.app/api?username=codewithahmed-dev&show_icons=true&theme=radical&hide_border=true&bg_color=080b12&title_color=ff3636&icon_color=ff3636&text_color=ffffff" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=codewithahmed-dev&layout=compact&theme=radical&hide_border=true&bg_color=080b12&title_color=ff3636&text_color=ffffff" height="165" alt="Most used languages" />
 </div>
 
-## LET’S MAKE IT REAL
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=dark&background=080b12&border=ff3636&ring=ff3636&fire=ff1717&currStreakLabel=ffffff&sideLabels=ffffff&dates=bbbbbb" width="80%" alt="GitHub contribution streak" />
+</div>
+
+<blockquote>
+<b>⚠️ CAUTION</b><br /><br />
+Code is never finished — it only gets better.<br /><br />
+What you see here is built with practice, curiosity, and persistence.
+</blockquote>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0b77b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/SEND%20A%20SIGNAL-ff1717?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1717,50:980000,100:080b12&height=90&text=KEEP%20BUILDING.%20KEEP%20SHIPPING.&fontSize=22&fontColor=ffffff&animation=fadeIn" width="92%" alt="Keep building and keep shipping" />
+</div>
+
+<h2>LET’S BUILD SOMETHING USEFUL</h2>
+
+<div align="center">
+  <a href="https://ahmed-nakhwa-dev.ahmednakhwa-dev.chatgpt.site/"><img src="https://img.shields.io/badge/PORTFOLIO-ff1717?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-0b77b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ff1717?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithahmed-dev&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="92%" alt="GitHub trophies" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=codewithahmed-dev&label=PROFILE%20SIGNALS&color=ff1717&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  <sub>Designed with curiosity, built with persistence, and shipped from Navi Mumbai.</sub>
+  <img src="https://komarev.com/ghpvc/?username=codewithahmed-dev&label=PROFILE%20VIEWS&color=ff1717&style=for-the-badge" alt="Profile views" />
 </div>
