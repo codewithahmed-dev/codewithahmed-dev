@@ -1,5 +1,5 @@
 <a href="https://ahmednakhwa.online">
-  <img src="./smurf-code-village.gif" width="100%" alt="Ahmed Nakhwa's animated Smurf Code Village" />
+  <img src="./ahmed-blue-deloitte-banner.gif" width="100%" alt="Ahmed Nakhwa, Incoming Data Analyst at Deloitte USI" />
 </a>
 
 <p align="center">
@@ -361,6 +361,106 @@ Pick a house before opening the others. Each house unlocks one part of my engine
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithahmed-dev/codewithahmed-dev/output/github-contribution-grid-snake.svg" />
   <img width="100%" alt="Ahmed Nakhwa GitHub contribution snake game" src="https://raw.githubusercontent.com/codewithahmed-dev/codewithahmed-dev/output/github-contribution-grid-snake.svg" />
 </picture>
+
+### Game 4: Unlock the Blue Data Vault
+
+<p align="center">
+  <img src="./blue-data-vault.gif" width="760" alt="Animated blue data vault SQL challenge" />
+</p>
+
+The project table contains a category and score for every build. Which query returns the **average score per category**, ordered from highest to lowest?
+
+<details>
+<summary>🔐 Query A</summary>
+<br/>
+
+```sql
+SELECT category, AVG(score)
+FROM projects;
+```
+
+The vault stays locked. This query is missing the grouping rule.
+
+</details>
+
+<details>
+<summary>🔐 Query B</summary>
+<br/>
+
+```sql
+SELECT category, AVG(score) AS average_score
+FROM projects
+GROUP BY category
+ORDER BY average_score DESC;
+```
+
+**Vault unlocked.** This groups every category, calculates its average, and ranks the results correctly.
+
+</details>
+
+<details>
+<summary>🔐 Query C</summary>
+<br/>
+
+```sql
+SELECT COUNT(*)
+FROM projects;
+```
+
+The vault stays locked. This only counts rows and does not compare category performance.
+
+</details>
+
+### Game 5: Choose Your Build Quest
+
+Choose one path before opening the others. Each route reveals the projects and tools that match your mission.
+
+<details>
+<summary>💻 Software Stream</summary>
+<br/>
+
+**Quest unlocked:** Build products people can use.
+
+- Corporate Web Platform
+- Object Detection for Blind Users
+- EduVoice Assistive Education Platform
+- Python Support Chatbot
+- Legends Community OS
+
+**Tools:** Next.js, React, TypeScript, Python, Firebase
+
+</details>
+
+<details>
+<summary>📊 Data Crystal Cave</summary>
+<br/>
+
+**Quest unlocked:** Turn raw signals into decisions.
+
+- CDMA Walsh Code Simulator
+- Wireless Network Analytics Suite
+- Plant and powerbank telemetry
+- Business reporting and dashboards
+
+**Tools:** Python, SQL, Pandas, NumPy, Power BI, MATLAB
+
+</details>
+
+<details>
+<summary>⚙️ IoT Mushroom Bridge</summary>
+<br/>
+
+**Quest unlocked:** Connect code with the physical world.
+
+- Smart Plant Care Assistant
+- Touch-Activated IoT Controller
+- Smart Powerbank
+- Digital Weighing Terminal
+- Dual-Joystick Robotics Controller
+
+**Tools:** C++, STM32, ESP8266, Arduino, MQTT, Sensors
+
+</details>
 
 ## Journey Map
 
