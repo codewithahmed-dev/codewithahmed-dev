@@ -107,7 +107,7 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
       <p><code>ANALYZE</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>SHIP</code></p>
     </td>
     <td width="42%" align="center">
-      <img src="https://cdn.dribbble.com/userupload/28882894/file/original-4376b803f3014d7fe07b4591d7556dd7.gif" width="310" alt="Batman coding at the Batcomputer" />
+      <img src="./gotham-batcomputer.gif" width="310" alt="Animated Gotham Batcomputer terminal" />
     </td>
   </tr>
 </table>
@@ -225,4 +225,4 @@ ACTIVE            Project Lead · Team Legends
   <code>BUILD IN SILENCE · DEBUG IN DARKNESS · SHIP WITH IMPACT</code>
 </p>
 
-<p align="center"><sub>Animated Gotham accents via <a href="https://giphy.com/explore/batman-signal">GIPHY</a> and coding animation by <a href="https://dribbble.com/shots/14272063-Batman">Abdullah Taher</a>.</sub></p>
+<p align="center"><sub>Bat-signal animation via <a href="https://giphy.com/explore/batman-signal">GIPHY</a> · Custom Gotham banner and Batcomputer animation created for this profile.</sub></p>
