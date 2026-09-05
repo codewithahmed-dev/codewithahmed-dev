@@ -123,8 +123,9 @@ A multi-division platform built with React, Next.js, TypeScript, Tailwind CSS, a
 <h2>GITHUB SIGNALS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-shion.vercel.app/api?username=codewithahmed-dev&show_icons=true&theme=radical&hide_border=true&bg_color=080b12&title_color=ff3636&icon_color=ff3636&text_color=ffffff" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=codewithahmed-dev&layout=compact&theme=radical&hide_border=true&bg_color=080b12&title_color=ff3636&text_color=ffffff" height="165" alt="Most used languages" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-BUILDER-ff1717?style=for-the-badge&logo=github&logoColor=white" alt="Open source builder" />
+  <img src="https://img.shields.io/badge/EXTC%20ENGINEER-TSEC%20MUMBAI-0b77b5?style=for-the-badge&logo=arduino&logoColor=white" alt="EXTC engineer at TSEC Mumbai" />
+  <img src="https://img.shields.io/badge/INCOMING-DELOITTE%20USI-111827?style=for-the-badge&logo=deloitte&logoColor=white" alt="Incoming Deloitte USI" />
 </div>
 
 <div align="center">
