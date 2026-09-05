@@ -411,8 +411,7 @@ ACTIVE          Project Lead | Team Legends
 ## Village Telemetry
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithahmed-dev&show_icons=true&hide_border=true&bg_color=061A2B&title_color=74D4FF&icon_color=21A6F6&text_color=F4FBFF" alt="Ahmed Nakhwa GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=transparent&hide_border=true&background=061A2B&stroke=21A6F6&ring=74D4FF&fire=21A6F6&currStreakLabel=74D4FF&sideLabels=F4FBFF&dates=8AC9EE" alt="Ahmed Nakhwa contribution streak" />
+  <img width="82%" src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=transparent&hide_border=true&background=061A2B&stroke=21A6F6&ring=74D4FF&fire=21A6F6&currStreakLabel=74D4FF&sideLabels=F4FBFF&dates=8AC9EE" alt="Ahmed Nakhwa contribution streak" />
 </p>
 
 <p align="center">
