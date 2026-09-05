@@ -1,31 +1,38 @@
 <a href="https://ahmednakhwa.online">
-  <img src="./ahmed-nakhwa-banner.png" width="100%" alt="Ahmed Nakhwa — Incoming Data Analyst at Deloitte USI" />
+  <img src="./gotham-banner.svg" width="100%" alt="Ahmed Nakhwa — Gotham developer command center" />
 </a>
 
 <p align="center">
-  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/PORTFOLIO-ahmednakhwa.online-0076CE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ahmed Nakhwa portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Build-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/ahmed._.nakhwa"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/PORTFOLIO-ahmednakhwa.online-FDE047?style=for-the-badge&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Ahmed Nakhwa portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-Connect-FDE047?style=for-the-badge&logo=linkedin&logoColor=FDE047&labelColor=080A0D" alt="LinkedIn" /></a>
+  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Light_the_signal-FDE047?style=for-the-badge&logo=gmail&logoColor=FDE047&labelColor=080A0D" alt="Email" /></a>
+  <a href="https://instagram.com/ahmed._.nakhwa"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-FDE047?style=for-the-badge&logo=instagram&logoColor=FDE047&labelColor=080A0D" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=0076CE&center=true&vCenter=true&width=850&lines=Incoming+Data+Analyst+%40+Deloitte+USI;Software+Developer+%E2%80%A2+IoT+Builder+%E2%80%A2+Problem+Solver;Turning+data%2C+code%2C+and+circuits+into+impact;BUILD_MODE%3A+ON" alt="Ahmed Nakhwa — developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Incoming+Data+Analyst+%40+Deloitte+USI;Software+Developer+%E2%80%A2+IoT+Builder+%E2%80%A2+Problem+Solver;Initializing+the+Batcomputer...;GOTHAM_BUILD_MODE%3A+ON" alt="Ahmed Nakhwa — Gotham developer introduction" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RlI47oFoOX9gGGGx8B/giphy.gif" width="520" alt="Bat-signal over Gotham" />
+</p>
+
+<p align="center"><code>THE NIGHT IS DARK. THE CODE DOESN'T HAVE TO BE.</code></p>
 
 ---
 
-## `> whoami`
+## `> decrypt_identity`
 
 ```typescript
 const ahmed = {
+  alias: "The Debug Knight",
   role: "Incoming Data Analyst @ Deloitte USI",
   education: "B.E. EXTC @ TSEC Mumbai · 2024—2027",
   location: "Navi Mumbai, India",
   builds: ["Data Products", "Full-Stack Apps", "IoT Systems", "Embedded Tech"],
   core: ["C++", "Python", "SQL", "Power BI", "Next.js"],
-  mindset: "Engineer by training. Builder by instinct.",
-  status: "BUILD_MODE_ON"
+  mindset: "Engineer by training. Vigilant builder by instinct.",
+  status: "GOTHAM_BUILD_MODE_ON"
 };
 ```
 
@@ -34,12 +41,12 @@ I’m **Ahmed Nakhwa** — an Electronics and Telecommunication engineer in the 
 My favourite part of engineering is taking an idea that exists only as a sketch, circuit, dataset, or rough thought and turning it into something people can actually use. From automated plant care and touch-controlled homes to business platforms and data dashboards, I like making complex things feel simple.
 
 <p align="center">
-  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/ENTER_THE_FULL_PORTFOLIO-Explore_my_story_%E2%86%92-111827?style=for-the-badge&labelColor=0076CE" alt="Explore Ahmed Nakhwa's full portfolio" /></a>
+  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/ENTER_THE_BATCAVE-Explore_my_story_%E2%86%92-FDE047?style=for-the-badge&labelColor=080A0D" alt="Explore Ahmed Nakhwa's full portfolio" /></a>
 </p>
 
 ---
 
-## `// mission_control`
+## `// batcomputer_status`
 
 | CURRENT STATUS | SIGNALS |
 |---|---|
@@ -52,7 +59,7 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 
 ---
 
-## `// selected_builds`
+## `// case_files`
 
 <table>
   <tr>
@@ -60,14 +67,14 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
       <h3>⚡ Multi-Division Corporate Platform</h3>
       <p>A responsive platform unifying engineering consultancy, sustainable homes, and interior services into one cohesive business experience.</p>
       <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Firebase</code></p>
-      <a href="https://github.com/codewithahmed-dev/unus-group"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=flat-square&logo=github&logoColor=white" alt="Open corporate platform repository" /></a>
+      <a href="https://github.com/codewithahmed-dev/unus-group"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=github&logoColor=080A0D&labelColor=080A0D" alt="Open corporate platform repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Touch-Activated IoT Controller</h3>
       <p>An ESP8266 and HC-05 based controller that brings conventional appliances into one mobile app, with authentication and usage reporting.</p>
       <p><code>C++</code> <code>ESP8266</code> <code>Arduino</code> <code>Firebase</code></p>
       <strong>Designed for up to 80% lower smart-control cost.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0076CE?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Touch Controller" /></a>
+      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Touch Controller" /></a>
     </td>
   </tr>
   <tr>
@@ -76,21 +83,34 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
       <p>An ESP8266 + MQTT system that monitors soil conditions, automates water and fertilizer delivery, and generates downloadable reports.</p>
       <p><code>C++</code> <code>MQTT</code> <code>IoT Sensors</code> <code>Automation</code></p>
       <strong>Built to reduce crop destruction by more than 20%.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0076CE?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Smart Plant Care" /></a>
+      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Plant Care" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔋 Smart Power Bank</h3>
       <p>A compact multi-cell BMS concept with STM32 control, safer fast charging, MQTT telemetry, and app-based battery and thermal monitoring.</p>
       <p><code>STM32</code> <code>BMS</code> <code>MQTT</code> <code>Mobile App</code></p>
       <strong>Turned into a competition-winning product story.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0076CE?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore Smart Power Bank" /></a>
+      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Power Bank" /></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## `// tech_stack`
+## `// utility_belt`
+
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h3>BATCOMPUTER ONLINE</h3>
+      <p>Languages, frameworks, data tools, and embedded hardware—each selected to solve the mission in front of me.</p>
+      <p><code>ANALYZE</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>SHIP</code></p>
+    </td>
+    <td width="42%" align="center">
+      <img src="https://cdn.dribbble.com/userupload/28882894/file/original-4376b803f3014d7fe07b4591d7556dd7.gif" width="310" alt="Batman coding at the Batcomputer" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nextjs,tailwind,mysql,firebase,git,github,vscode,arduino,raspberrypi,figma&perline=8" alt="Ahmed Nakhwa technology stack" />
@@ -106,7 +126,7 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 </p>
 
 <details>
-<summary><strong>⚙️ Expand the complete engineering toolkit</strong></summary>
+<summary><strong>🦇 Open the complete utility belt</strong></summary>
 <br/>
 
 | Layer | Tools |
@@ -122,7 +142,7 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 
 ---
 
-## `// experience_log`
+## `// field_log`
 
 ```text
 2026 → NEXT       Incoming Data Analyst · Deloitte USI
@@ -145,7 +165,7 @@ ACTIVE            Project Lead · Team Legends
 
 ---
 
-## `// education_path`
+## `// training_protocols`
 
 | Timeline | Institution | Chapter |
 |---|---|---|
@@ -155,7 +175,7 @@ ACTIVE            Project Lead · Team Legends
 
 ---
 
-## `// achievement_matrix`
+## `// evidence_vault`
 
 | 🏆 Engineering | 🧠 Knowledge | 🎤 Leadership |
 |---|---|---|
@@ -166,37 +186,43 @@ ACTIVE            Project Lead · Team Legends
 
 ---
 
-## `// github_signals`
+## `// batcomputer_telemetry`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-BUILDER-0076CE?style=for-the-badge&logo=github&logoColor=white" alt="Open source builder" />
-  <img src="https://img.shields.io/badge/EXTC_ENGINEER-TSEC_MUMBAI-111827?style=for-the-badge&logo=arduino&logoColor=white" alt="EXTC engineer at TSEC Mumbai" />
-  <img src="https://img.shields.io/badge/INCOMING_DATA_ANALYST-DELOITTE_USI-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Incoming Data Analyst at Deloitte USI" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-VIGILANTE-FDE047?style=for-the-badge&logo=github&logoColor=FDE047&labelColor=080A0D" alt="Open source builder" />
+  <img src="https://img.shields.io/badge/EXTC_ENGINEER-TSEC_MUMBAI-FDE047?style=for-the-badge&logo=arduino&logoColor=FDE047&labelColor=080A0D" alt="EXTC engineer at TSEC Mumbai" />
+  <img src="https://img.shields.io/badge/INCOMING_DATA_ANALYST-DELOITTE_USI-FDE047?style=for-the-badge&logo=deloitte&logoColor=FDE047&labelColor=080A0D" alt="Incoming Data Analyst at Deloitte USI" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=transparent&hide_border=true&stroke=0076CE&ring=0076CE&fire=86BC25&currStreakLabel=0076CE&sideLabels=111827&dates=6B7280" alt="Ahmed Nakhwa GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=transparent&hide_border=true&stroke=FDE047&ring=FDE047&fire=FDE047&currStreakLabel=E5B80B&sideLabels=9CA3AF&dates=6B7280" alt="Ahmed Nakhwa GitHub contribution streak" />
 </p>
 
 > [!IMPORTANT]
-> **Code is never finished — it only gets better.** Every build here is powered by curiosity, practice, teamwork, and the discipline to keep shipping.
+> **Fear is a tool. Curiosity is the protocol. Code is the weapon against unsolved problems.** Every build here is powered by practice, teamwork, and the discipline to keep shipping.
 
 ---
 
-## `// establish_connection`
+## `// light_the_signal`
 
 <p align="center">
-  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/PORTFOLIO-See_the_full_experience-0076CE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/ENTER_THE_BATCAVE-See_the_full_portfolio-FDE047?style=for-the-badge&logo=vercel&logoColor=FDE047&labelColor=080A0D" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-Establish_connection-FDE047?style=for-the-badge&logo=linkedin&logoColor=FDE047&labelColor=080A0D" alt="LinkedIn" /></a>
+  <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Light_the_signal-FDE047?style=for-the-badge&logo=gmail&logoColor=FDE047&labelColor=080A0D" alt="Gmail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithahmed-dev&label=PROFILE+VIEWS&color=0076CE&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codewithahmed-dev&label=GOTHAM+VISITORS&color=FDE047&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <strong>I make ideas feel alive.</strong><br/>
-  Data thinking. Software execution. Hardware curiosity.<br/><br/>
-  <code>KEEP BUILDING · KEEP LEARNING · KEEP SHIPPING</code>
+  <img src="https://media.giphy.com/media/RlI47oFoOX9gGGGx8B/giphy.gif" width="420" alt="The bat-signal calling over Gotham" />
 </p>
+
+<p align="center">
+  <strong>Not the hero the backlog asked for—the builder it needed.</strong><br/>
+  Data intelligence. Software execution. Hardware curiosity.<br/><br/>
+  <code>BUILD IN SILENCE · DEBUG IN DARKNESS · SHIP WITH IMPACT</code>
+</p>
+
+<p align="center"><sub>Animated Gotham accents via <a href="https://giphy.com/explore/batman-signal">GIPHY</a> and coding animation by <a href="https://dribbble.com/shots/14272063-Batman">Abdullah Taher</a>.</sub></p>
