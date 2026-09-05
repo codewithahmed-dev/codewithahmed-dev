@@ -9,6 +9,16 @@
   <a href="https://instagram.com/ahmed._.nakhwa"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-FDE047?style=for-the-badge&logo=instagram&logoColor=FDE047&labelColor=080A0D" alt="Instagram" /></a>
 </p>
 
+<p align="center"><strong>SELECT A MISSION</strong></p>
+
+<p align="center">
+  <a href="#identity-decrypted"><img src="https://img.shields.io/badge/IDENTITY-OPEN-FDE047?style=flat-square&labelColor=080A0D" alt="Open identity section" /></a>
+  <a href="#case-files"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-FDE047?style=flat-square&labelColor=080A0D" alt="Explore projects" /></a>
+  <a href="#utility-belt"><img src="https://img.shields.io/badge/TOOLKIT-INSPECT-FDE047?style=flat-square&labelColor=080A0D" alt="Inspect toolkit" /></a>
+  <a href="#field-log"><img src="https://img.shields.io/badge/JOURNEY-TRACE-FDE047?style=flat-square&labelColor=080A0D" alt="Trace experience" /></a>
+  <a href="#light-the-signal"><img src="https://img.shields.io/badge/CONTACT-SIGNAL-FDE047?style=flat-square&labelColor=080A0D" alt="Contact Ahmed" /></a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Incoming+Data+Analyst+%40+Deloitte+USI;Software+Developer+%E2%80%A2+IoT+Builder+%E2%80%A2+Problem+Solver;Initializing+the+Batcomputer...;GOTHAM_BUILD_MODE%3A+ON" alt="Ahmed Nakhwa — Gotham developer introduction" />
 </p>
@@ -21,7 +31,7 @@
 
 ---
 
-## `> decrypt_identity`
+## Identity Decrypted
 
 ```typescript
 const ahmed = {
@@ -46,71 +56,105 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 
 ---
 
-## `// batcomputer_status`
+## Batcomputer Status
 
-| CURRENT STATUS | SIGNALS |
-|---|---|
-| 🟢 **Incoming Data Analyst @ Deloitte USI** | 🏆 **6× Diploma Semester Topper** |
-| 🎓 **B.E. EXTC @ TSEC Mumbai** | ⚡ **MH-EXTC Rank 27 · AIR 1107** |
-| 📍 **Navi Mumbai, India** | 🥇 **4× Project Competition Winner** |
-| 🧠 **Software · Data · Embedded · IoT** | 🧩 **4× Inter-Collegiate Quiz Winner** |
-| 🎤 **Speaker & Anchor — 10+ events** | 👑 **Best President — ISTE TSEC** |
-| 🚀 **Project Lead — Team Legends** | 🤝 **Class Representative & Community Builder** |
+<details open>
+<summary><strong>🟡 Current mission briefing</strong></summary>
+<br/>
 
----
+- 🟢 **Incoming Data Analyst @ Deloitte USI**
+- 🎓 **B.E. EXTC @ TSEC Mumbai · 2024—2027**
+- 📍 **Navi Mumbai, India**
+- 🧠 Building across **software, data, embedded systems, and IoT**
+- 🚀 Project Lead at **Team Legends**
 
-## `// case_files`
+</details>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Multi-Division Corporate Platform</h3>
-      <p>A responsive platform unifying engineering consultancy, sustainable homes, and interior services into one cohesive business experience.</p>
-      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Firebase</code></p>
-      <a href="https://github.com/codewithahmed-dev/unus-group"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=github&logoColor=080A0D&labelColor=080A0D" alt="Open corporate platform repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Touch-Activated IoT Controller</h3>
-      <p>An ESP8266 and HC-05 based controller that brings conventional appliances into one mobile app, with authentication and usage reporting.</p>
-      <p><code>C++</code> <code>ESP8266</code> <code>Arduino</code> <code>Firebase</code></p>
-      <strong>Designed for up to 80% lower smart-control cost.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Touch Controller" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 Smart Plant Care Assistant</h3>
-      <p>An ESP8266 + MQTT system that monitors soil conditions, automates water and fertilizer delivery, and generates downloadable reports.</p>
-      <p><code>C++</code> <code>MQTT</code> <code>IoT Sensors</code> <code>Automation</code></p>
-      <strong>Built to reduce crop destruction by more than 20%.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Plant Care" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔋 Smart Power Bank</h3>
-      <p>A compact multi-cell BMS concept with STM32 control, safer fast charging, MQTT telemetry, and app-based battery and thermal monitoring.</p>
-      <p><code>STM32</code> <code>BMS</code> <code>MQTT</code> <code>Mobile App</code></p>
-      <strong>Turned into a competition-winning product story.</strong><br/><br/>
-      <a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Power Bank" /></a>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><strong>🏆 Unlock achievement signals</strong></summary>
+<br/>
+
+- **6× Diploma Semester Topper**
+- **MH-EXTC Rank 27 · AIR 1107**
+- **4× Project Competition Winner**
+- **4× Inter-Collegiate Quiz Winner**
+- **Best President — ISTE TSEC**
+- **Speaker & Anchor — 10+ events**
+- **Class Representative & Community Builder**
+
+</details>
 
 ---
 
-## `// utility_belt`
+## Case Files
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>BATCOMPUTER ONLINE</h3>
-      <p>Languages, frameworks, data tools, and embedded hardware—each selected to solve the mission in front of me.</p>
-      <p><code>ANALYZE</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>SHIP</code></p>
-    </td>
-    <td width="42%" align="center">
-      <img src="./gotham-batcomputer.gif" width="310" alt="Animated Gotham Batcomputer terminal" />
-    </td>
-  </tr>
-</table>
+Tap a classified case file to decrypt the mission.
+
+<details open>
+<summary><strong>⚡ Multi-Division Corporate Platform</strong> · Web</summary>
+<br/>
+
+A responsive platform unifying engineering consultancy, sustainable homes, and interior services into one cohesive business experience.
+
+`Next.js` `React` `Tailwind CSS` `Firebase`
+
+<a href="https://github.com/codewithahmed-dev/unus-group"><img src="https://img.shields.io/badge/OPEN_CASE_FILE-FDE047?style=flat-square&logo=github&logoColor=080A0D&labelColor=080A0D" alt="Open corporate platform repository" /></a>
+
+</details>
+
+<details>
+<summary><strong>🏠 Touch-Activated IoT Controller</strong> · Embedded + App</summary>
+<br/>
+
+An ESP8266 and HC-05 based controller that brings conventional appliances into one mobile app, with authentication and usage reporting.
+
+`C++` `ESP8266` `Arduino` `Firebase`
+
+**Impact:** Designed for up to 80% lower smart-control cost.
+
+<a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Touch Controller" /></a>
+
+</details>
+
+<details>
+<summary><strong>🌱 Smart Plant Care Assistant</strong> · IoT Automation</summary>
+<br/>
+
+An ESP8266 + MQTT system that monitors soil conditions, automates water and fertilizer delivery, and generates downloadable reports.
+
+`C++` `MQTT` `IoT Sensors` `Automation`
+
+**Impact:** Built to reduce crop destruction by more than 20%.
+
+<a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Plant Care" /></a>
+
+</details>
+
+<details>
+<summary><strong>🔋 Smart Power Bank</strong> · Embedded Product</summary>
+<br/>
+
+A compact multi-cell BMS concept with STM32 control, safer fast charging, MQTT telemetry, and app-based battery and thermal monitoring.
+
+`STM32` `BMS` `MQTT` `Mobile App`
+
+**Result:** Turned into a competition-winning product story.
+
+<a href="https://ahmednakhwa.online/#projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-FDE047?style=flat-square&logo=googlechrome&logoColor=080A0D&labelColor=080A0D" alt="Explore Smart Power Bank" /></a>
+
+</details>
+
+---
+
+## Utility Belt
+
+**BATCOMPUTER ONLINE** · Languages, frameworks, data tools, and embedded hardware—each selected to solve the mission in front of me.
+
+<p align="center"><code>ANALYZE</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>SHIP</code></p>
+
+<p align="center">
+  <img src="./gotham-batcomputer.gif" width="640" alt="Animated Gotham Batcomputer terminal" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nextjs,tailwind,mysql,firebase,git,github,vscode,arduino,raspberrypi,figma&perline=8" alt="Ahmed Nakhwa technology stack" />
@@ -126,23 +170,21 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 </p>
 
 <details>
-<summary><strong>🦇 Open the complete utility belt</strong></summary>
+<summary><strong>🦇 Expand the complete engineering toolkit</strong></summary>
 <br/>
 
-| Layer | Tools |
-|---|---|
-| **Languages** | C · C++ · Python · Java · JavaScript · TypeScript · SQL |
-| **Data & ML** | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Power BI · Excel |
-| **Web & Databases** | React · Next.js · Tailwind CSS · MySQL · MSSQL · Firebase |
-| **Embedded & IoT** | Arduino · ESP8266 · STM32 · Raspberry Pi · MQTT · Embedded C |
-| **Build & Collaboration** | Git · GitHub · VS Code · Android Studio · Google Colab · Figma |
-| **Project Delivery** | Agile · Scrum · SDLC · Jira · MS Project · PowerPoint |
+- **Languages:** C · C++ · Python · Java · JavaScript · TypeScript · SQL
+- **Data & ML:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Power BI · Excel
+- **Web & Databases:** React · Next.js · Tailwind CSS · MySQL · MSSQL · Firebase
+- **Embedded & IoT:** Arduino · ESP8266 · STM32 · Raspberry Pi · MQTT · Embedded C
+- **Build & Collaboration:** Git · GitHub · VS Code · Android Studio · Google Colab · Figma
+- **Project Delivery:** Agile · Scrum · SDLC · Jira · MS Project · PowerPoint
 
 </details>
 
 ---
 
-## `// field_log`
+## Field Log
 
 ```text
 2026 → NEXT       Incoming Data Analyst · Deloitte USI
@@ -153,7 +195,7 @@ ACTIVE            Project Lead · Team Legends
 ```
 
 <details open>
-<summary><strong>Leadership + real-world work</strong></summary>
+<summary><strong>💼 Open professional experience log</strong></summary>
 <br/>
 
 - **UNUS Group — Web Development Intern:** Designed and developed a multi-division marketing platform; transformed business requirements into responsive service pages, project showcases, and clear contact journeys.
@@ -165,28 +207,82 @@ ACTIVE            Project Lead · Team Legends
 
 ---
 
-## `// training_protocols`
+## Training Protocols
 
-| Timeline | Institution | Chapter |
-|---|---|---|
-| **2024 — 2027** | **Thadomal Shahani College of Engineering, Mumbai** | B.E. Electronics & Telecommunication · Class Representative for 25 students |
-| **2021 — 2024** | **Bharati Vidyapeeth Institute of Technology, Kharghar** | Diploma EXTC · **90.24%** · Topper across all six semesters · CR for 180 students |
-| **2014 — 2021** | **D.Y. Patil School, Belapur** | SSC · Class Coordinator for 70 students · Red House Captain |
+<details open>
+<summary><strong>🎓 B.E. Electronics & Telecommunication · 2024—2027</strong></summary>
+<br/>
+
+**Thadomal Shahani College of Engineering, Mumbai**
+
+- Class Representative for 25 students
+- Engineering focus across electronics, communication, software, data, and IoT
+
+</details>
+
+<details>
+<summary><strong>⚡ Diploma EXTC · 2021—2024</strong></summary>
+<br/>
+
+**Bharati Vidyapeeth Institute of Technology, Kharghar**
+
+- **90.24% overall**
+- Topper across all six semesters
+- Class Representative for 180 students
+
+</details>
+
+<details>
+<summary><strong>🏫 School Chapter · 2014—2021</strong></summary>
+<br/>
+
+**D.Y. Patil School, Belapur**
+
+- Class Coordinator for 70 students
+- Red House Captain
+
+</details>
 
 ---
 
-## `// evidence_vault`
+## Evidence Vault
 
-| 🏆 Engineering | 🧠 Knowledge | 🎤 Leadership |
-|---|---|---|
-| State-Level Technical Paper Presentation Winner | 4× Inter-Collegiate Quiz Winner | Best President — ISTE TSEC |
-| MSBTE Project Competition Winner | 6× Diploma Semester Topper | Anchored 10+ events |
-| 2× TSEC Project Winner — 2025 & 2026 | MH-EXTC Rank 27 · AIR 1107 | Class Representative |
-| 4× Project Competition Winner overall | Diploma — 90.24% | Project Lead — Team Legends |
+<details>
+<summary><strong>🏆 Engineering victories</strong></summary>
+<br/>
+
+- State-Level Technical Paper Presentation Winner
+- MSBTE Project Competition Winner
+- 2× TSEC Project Winner — 2025 & 2026
+- 4× Project Competition Winner overall
+
+</details>
+
+<details>
+<summary><strong>🧠 Academic and knowledge records</strong></summary>
+<br/>
+
+- 4× Inter-Collegiate Quiz Winner
+- 6× Diploma Semester Topper
+- MH-EXTC Rank 27 · AIR 1107
+- Diploma — 90.24%
+
+</details>
+
+<details>
+<summary><strong>🎤 Leadership records</strong></summary>
+<br/>
+
+- Best President — ISTE TSEC
+- Anchored 10+ events
+- Class Representative
+- Project Lead — Team Legends
+
+</details>
 
 ---
 
-## `// batcomputer_telemetry`
+## Batcomputer Telemetry
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN_SOURCE-VIGILANTE-FDE047?style=for-the-badge&logo=github&logoColor=FDE047&labelColor=080A0D" alt="Open source builder" />
@@ -198,12 +294,17 @@ ACTIVE            Project Lead · Team Legends
   <img src="https://streak-stats.demolab.com?user=codewithahmed-dev&theme=transparent&hide_border=true&stroke=FDE047&ring=FDE047&fire=FDE047&currStreakLabel=E5B80B&sideLabels=9CA3AF&dates=6B7280" alt="Ahmed Nakhwa GitHub contribution streak" />
 </p>
 
-> [!IMPORTANT]
-> **Fear is a tool. Curiosity is the protocol. Code is the weapon against unsolved problems.** Every build here is powered by practice, teamwork, and the discipline to keep shipping.
+<details>
+<summary><strong>🔐 Decrypt the operating protocol</strong></summary>
+<br/>
+
+**Fear is a tool. Curiosity is the protocol. Code is the weapon against unsolved problems.** Every build here is powered by practice, teamwork, and the discipline to keep shipping.
+
+</details>
 
 ---
 
-## `// light_the_signal`
+## Light the Signal
 
 <p align="center">
   <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/ENTER_THE_BATCAVE-See_the_full_portfolio-FDE047?style=for-the-badge&logo=vercel&logoColor=FDE047&labelColor=080A0D" alt="Portfolio" /></a>
