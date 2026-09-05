@@ -1,5 +1,5 @@
 <a href="https://ahmednakhwa.online">
-  <img src="./gotham-banner.svg" width="100%" alt="Ahmed Nakhwa — Gotham developer command center" />
+  <img src="./ahmed-nakhwa-deloitte-banner.jpg" width="100%" alt="Ahmed Nakhwa, Incoming Data Analyst at Deloitte USI" />
 </a>
 
 <p align="center">
@@ -16,11 +16,12 @@
   <a href="#case-files"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-FDE047?style=flat-square&labelColor=080A0D" alt="Explore projects" /></a>
   <a href="#utility-belt"><img src="https://img.shields.io/badge/TOOLKIT-INSPECT-FDE047?style=flat-square&labelColor=080A0D" alt="Inspect toolkit" /></a>
   <a href="#field-log"><img src="https://img.shields.io/badge/JOURNEY-TRACE-FDE047?style=flat-square&labelColor=080A0D" alt="Trace experience" /></a>
+  <a href="#contribution-snake-game"><img src="https://img.shields.io/badge/SNAKE-PLAY-FDE047?style=flat-square&labelColor=080A0D" alt="Watch contribution snake" /></a>
   <a href="#light-the-signal"><img src="https://img.shields.io/badge/CONTACT-SIGNAL-FDE047?style=flat-square&labelColor=080A0D" alt="Contact Ahmed" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Incoming+Data+Analyst+%40+Deloitte+USI;Software+Developer+%E2%80%A2+IoT+Builder+%E2%80%A2+Problem+Solver;Initializing+the+Batcomputer...;GOTHAM_BUILD_MODE%3A+ON" alt="Ahmed Nakhwa — Gotham developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=FDE047&center=true&vCenter=true&width=850&lines=Incoming+Data+Analyst+%40+Deloitte+USI;Software+Developer+%E2%80%A2+IoT+Builder+%E2%80%A2+Problem+Solver;Initializing+the+Batcomputer...;GOTHAM_BUILD_MODE%3A+ON" alt="Ahmed Nakhwa - Gotham developer introduction" />
 </p>
 
 <p align="center">
@@ -29,15 +30,13 @@
 
 <p align="center"><code>THE NIGHT IS DARK. THE CODE DOESN'T HAVE TO BE.</code></p>
 
----
-
 ## Identity Decrypted
 
 ```typescript
 const ahmed = {
   alias: "The Debug Knight",
   role: "Incoming Data Analyst @ Deloitte USI",
-  education: "B.E. EXTC @ TSEC Mumbai · 2024—2027",
+  education: "B.E. EXTC @ TSEC Mumbai · 2024-2027",
   location: "Navi Mumbai, India",
   builds: ["Data Products", "Full-Stack Apps", "IoT Systems", "Embedded Tech"],
   core: ["C++", "Python", "SQL", "Power BI", "Next.js"],
@@ -46,15 +45,13 @@ const ahmed = {
 };
 ```
 
-I’m **Ahmed Nakhwa** — an Electronics and Telecommunication engineer in the making who enjoys building at the intersection of **software, data, electronics, IoT, and people**.
+I’m **Ahmed Nakhwa** - an Electronics and Telecommunication engineer in the making who enjoys building at the intersection of **software, data, electronics, IoT, and people**.
 
 My favourite part of engineering is taking an idea that exists only as a sketch, circuit, dataset, or rough thought and turning it into something people can actually use. From automated plant care and touch-controlled homes to business platforms and data dashboards, I like making complex things feel simple.
 
 <p align="center">
   <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/ENTER_THE_BATCAVE-Explore_my_story_%E2%86%92-FDE047?style=for-the-badge&labelColor=080A0D" alt="Explore Ahmed Nakhwa's full portfolio" /></a>
 </p>
-
----
 
 ## Batcomputer Status
 
@@ -63,7 +60,7 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 <br/>
 
 - 🟢 **Incoming Data Analyst @ Deloitte USI**
-- 🎓 **B.E. EXTC @ TSEC Mumbai · 2024—2027**
+- 🎓 **B.E. EXTC @ TSEC Mumbai · 2024-2027**
 - 📍 **Navi Mumbai, India**
 - 🧠 Building across **software, data, embedded systems, and IoT**
 - 🚀 Project Lead at **Team Legends**
@@ -78,13 +75,11 @@ My favourite part of engineering is taking an idea that exists only as a sketch,
 - **MH-EXTC Rank 27 · AIR 1107**
 - **4× Project Competition Winner**
 - **4× Inter-Collegiate Quiz Winner**
-- **Best President — ISTE TSEC**
-- **Speaker & Anchor — 10+ events**
+- **Best President - ISTE TSEC**
+- **Speaker & Anchor - 10+ events**
 - **Class Representative & Community Builder**
 
 </details>
-
----
 
 ## Case Files
 
@@ -144,11 +139,9 @@ A compact multi-cell BMS concept with STM32 control, safer fast charging, MQTT t
 
 </details>
 
----
-
 ## Utility Belt
 
-**BATCOMPUTER ONLINE** · Languages, frameworks, data tools, and embedded hardware—each selected to solve the mission in front of me.
+**BATCOMPUTER ONLINE** · Languages, frameworks, data tools, and embedded hardware-each selected to solve the mission in front of me.
 
 <p align="center"><code>ANALYZE</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>SHIP</code></p>
 
@@ -182,8 +175,6 @@ A compact multi-cell BMS concept with STM32 control, safer fast charging, MQTT t
 
 </details>
 
----
-
 ## Field Log
 
 ```text
@@ -198,19 +189,17 @@ ACTIVE            Project Lead · Team Legends
 <summary><strong>💼 Open professional experience log</strong></summary>
 <br/>
 
-- **UNUS Group — Web Development Intern:** Designed and developed a multi-division marketing platform; transformed business requirements into responsive service pages, project showcases, and clear contact journeys.
-- **ISTE-TSEC — President, previously Head of Design:** Promoted for consistent leadership; secured 3–4 sponsors including Red Bull and Rio, and led events and workshops from planning through execution.
-- **Saitronics — Engineering Intern:** Contributed to four engineering projects and translated requirements into working prototypes through hands-on development and collaboration.
-- **Team Legends — Project Lead:** Build-focused leadership across technical projects, competitions, presentations, and community initiatives.
+- **UNUS Group - Web Development Intern:** Designed and developed a multi-division marketing platform; transformed business requirements into responsive service pages, project showcases, and clear contact journeys.
+- **ISTE-TSEC - President, previously Head of Design:** Promoted for consistent leadership; secured 3-4 sponsors including Red Bull and Rio, and led events and workshops from planning through execution.
+- **Saitronics - Engineering Intern:** Contributed to four engineering projects and translated requirements into working prototypes through hands-on development and collaboration.
+- **Team Legends - Project Lead:** Build-focused leadership across technical projects, competitions, presentations, and community initiatives.
 
 </details>
-
----
 
 ## Training Protocols
 
 <details open>
-<summary><strong>🎓 B.E. Electronics & Telecommunication · 2024—2027</strong></summary>
+<summary><strong>🎓 B.E. Electronics & Telecommunication · 2024-2027</strong></summary>
 <br/>
 
 **Thadomal Shahani College of Engineering, Mumbai**
@@ -221,7 +210,7 @@ ACTIVE            Project Lead · Team Legends
 </details>
 
 <details>
-<summary><strong>⚡ Diploma EXTC · 2021—2024</strong></summary>
+<summary><strong>⚡ Diploma EXTC · 2021-2024</strong></summary>
 <br/>
 
 **Bharati Vidyapeeth Institute of Technology, Kharghar**
@@ -233,7 +222,7 @@ ACTIVE            Project Lead · Team Legends
 </details>
 
 <details>
-<summary><strong>🏫 School Chapter · 2014—2021</strong></summary>
+<summary><strong>🏫 School Chapter · 2014-2021</strong></summary>
 <br/>
 
 **D.Y. Patil School, Belapur**
@@ -243,8 +232,6 @@ ACTIVE            Project Lead · Team Legends
 
 </details>
 
----
-
 ## Evidence Vault
 
 <details>
@@ -253,7 +240,7 @@ ACTIVE            Project Lead · Team Legends
 
 - State-Level Technical Paper Presentation Winner
 - MSBTE Project Competition Winner
-- 2× TSEC Project Winner — 2025 & 2026
+- 2× TSEC Project Winner - 2025 & 2026
 - 4× Project Competition Winner overall
 
 </details>
@@ -265,7 +252,7 @@ ACTIVE            Project Lead · Team Legends
 - 4× Inter-Collegiate Quiz Winner
 - 6× Diploma Semester Topper
 - MH-EXTC Rank 27 · AIR 1107
-- Diploma — 90.24%
+- Diploma - 90.24%
 
 </details>
 
@@ -273,14 +260,22 @@ ACTIVE            Project Lead · Team Legends
 <summary><strong>🎤 Leadership records</strong></summary>
 <br/>
 
-- Best President — ISTE TSEC
+- Best President - ISTE TSEC
 - Anchored 10+ events
 - Class Representative
-- Project Lead — Team Legends
+- Project Lead - Team Legends
 
 </details>
 
----
+## Contribution Snake Game
+
+<p align="center"><strong>Watch the signal snake consume my contribution grid.</strong></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithahmed-dev/codewithahmed-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithahmed-dev/codewithahmed-dev/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Ahmed Nakhwa GitHub contribution snake game" src="https://raw.githubusercontent.com/codewithahmed-dev/codewithahmed-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Batcomputer Telemetry
 
@@ -302,8 +297,6 @@ ACTIVE            Project Lead · Team Legends
 
 </details>
 
----
-
 ## Light the Signal
 
 <p align="center">
@@ -321,7 +314,7 @@ ACTIVE            Project Lead · Team Legends
 </p>
 
 <p align="center">
-  <strong>Not the hero the backlog asked for—the builder it needed.</strong><br/>
+  <strong>Not the hero the backlog asked for-the builder it needed.</strong><br/>
   Data intelligence. Software execution. Hardware curiosity.<br/><br/>
   <code>BUILD IN SILENCE · DEBUG IN DARKNESS · SHIP WITH IMPACT</code>
 </p>
