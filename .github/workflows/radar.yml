@@ -1,0 +1,42 @@
+name: Refresh blue profile radars
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/skills.json"
+      - "scripts/render_radars.py"
+      - ".github/workflows/radar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render-radars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render live blue radar cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render_radars.py --username "${{ github.repository_owner }}" --out assets
+
+      - name: Commit refreshed radar assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.json assets/radar-skills-dark.svg assets/radar-skills-light.svg assets/radar-languages-dark.svg assets/radar-languages-light.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh blue profile radars"
+          git push
