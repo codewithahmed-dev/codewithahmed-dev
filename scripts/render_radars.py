@@ -70,15 +70,20 @@ def live_language_data(username: str, token: str | None, limit: int = 5) -> dict
         f"https://api.github.com/users/{username}/repos?per_page=100&type=owner&sort=updated",
         token,
     )
-    totals: dict[str, int] = {}
+    all_totals: dict[str, int] = {}
     for repo in repos:
         if repo.get("fork") or repo.get("archived"):
             continue
         languages = request_json(repo["languages_url"], token)
         for language, byte_count in languages.items():
-            if language in EXCLUDED_LANGUAGES:
-                continue
-            totals[language] = totals.get(language, 0) + int(byte_count)
+            all_totals[language] = all_totals.get(language, 0) + int(byte_count)
+
+    filtered_totals = {
+        language: byte_count
+        for language, byte_count in all_totals.items()
+        if language not in EXCLUDED_LANGUAGES
+    }
+    totals = filtered_totals if len(filtered_totals) >= limit else all_totals
 
     ranked = sorted(totals.items(), key=lambda item: item[1], reverse=True)[:limit]
     if len(ranked) < 5:
