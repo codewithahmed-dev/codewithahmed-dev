@@ -1,11 +1,31 @@
 {
   "title": "Code Footprint",
-  "subtitle": "Repository language signals",
+  "subtitle": "Live bytes across public repositories",
   "axes": [
-    { "label": "Python", "value": 100, "display": "32%" },
-    { "label": "C++", "value": 88, "display": "24%" },
-    { "label": "TypeScript", "value": 78, "display": "18%" },
-    { "label": "JavaScript", "value": 70, "display": "14%" },
-    { "label": "MATLAB", "value": 62, "display": "12%" }
+    {
+      "label": "Scheme",
+      "value": 100.0,
+      "display": "64.6%"
+    },
+    {
+      "label": "Python",
+      "value": 68.9,
+      "display": "26.6%"
+    },
+    {
+      "label": "JavaScript",
+      "value": 30.3,
+      "display": "3.8%"
+    },
+    {
+      "label": "CSS",
+      "value": 26.1,
+      "display": "2.6%"
+    },
+    {
+      "label": "C++",
+      "value": 25.0,
+      "display": "2.4%"
+    }
   ]
 }
