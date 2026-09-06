@@ -3,6 +3,12 @@
 </a>
 
 <p align="center">
+  <img src="./ahmed-blue-profile-sticker.png" width="245" alt="Ahmed Nakhwa blue developer portrait sticker" />
+</p>
+
+<p align="center"><code>AHMED NAKHWA · SOFTWARE · DATA · IOT</code></p>
+
+<p align="center">
   <a href="https://ahmednakhwa.online"><img src="https://img.shields.io/badge/PORTFOLIO-ahmednakhwa.online-74D4FF?style=for-the-badge&logo=googlechrome&logoColor=F4FBFF&labelColor=061A2B" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ahmednakhwadev"><img src="https://img.shields.io/badge/LINKEDIN-Connect-21A6F6?style=for-the-badge&logo=linkedin&logoColor=F4FBFF&labelColor=061A2B" alt="LinkedIn" /></a>
   <a href="mailto:ahmednakhwa.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Send_a_message-74D4FF?style=for-the-badge&logo=gmail&logoColor=F4FBFF&labelColor=061A2B" alt="Email" /></a>
@@ -15,6 +21,7 @@
   <a href="#meet-the-builder"><img src="https://img.shields.io/badge/MEET-AHMED-74D4FF?style=flat-square&labelColor=061A2B" alt="Meet Ahmed" /></a>
   <a href="#software-project-village"><img src="https://img.shields.io/badge/PROJECTS-12_BUILDS-21A6F6?style=flat-square&labelColor=061A2B" alt="Explore projects" /></a>
   <a href="#builder-toolkit"><img src="https://img.shields.io/badge/TOOLKIT-OPEN-74D4FF?style=flat-square&labelColor=061A2B" alt="Open toolkit" /></a>
+  <a href="#live-build-signals"><img src="https://img.shields.io/badge/SIGNALS-LIVE-21A6F6?style=flat-square&labelColor=061A2B" alt="View live build signals" /></a>
   <a href="#smurf-arcade"><img src="https://img.shields.io/badge/ARCADE-PLAY-21A6F6?style=flat-square&labelColor=061A2B" alt="Play games" /></a>
   <a href="#journey-map"><img src="https://img.shields.io/badge/JOURNEY-VIEW-74D4FF?style=flat-square&labelColor=061A2B" alt="View journey" /></a>
   <a href="#send-a-blue-signal"><img src="https://img.shields.io/badge/CONTACT-SIGNAL-21A6F6?style=flat-square&labelColor=061A2B" alt="Contact Ahmed" /></a>
@@ -290,6 +297,54 @@ Twelve builds across web, data, accessibility, IoT, embedded software, and commu
 - **Embedded and IoT:** Arduino, ESP8266, STM32, Raspberry Pi, MQTT, Embedded C
 - **Build and Collaboration:** Git, GitHub, VS Code, Android Studio, Google Colab, Figma
 - **Project Delivery:** Agile, Scrum, SDLC, Jira, MS Project, PowerPoint
+
+</details>
+
+## Live Build Signals
+
+Two five-point views of the same builder. The first maps the areas I actively build in. The second refreshes from the real language bytes across my public repositories.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/radar-skills-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/radar-skills-light.svg" />
+        <img src="./assets/radar-skills-dark.svg" width="100%" alt="Ahmed Nakhwa five-point builder skill radar" />
+      </picture>
+      <sub>Self-rated build strengths</sub>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/radar-languages-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/radar-languages-light.svg" />
+        <img src="./assets/radar-languages-dark.svg" width="100%" alt="Ahmed Nakhwa five-point public repository language radar" />
+      </picture>
+      <sub>Auto-synced repository language footprint</sub>
+    </td>
+  </tr>
+</table>
+
+### 3D Contribution City
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-isocalendar-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-isocalendar-light.svg" />
+    <img src="./assets/metrics-isocalendar-dark.svg" width="100%" alt="Ahmed Nakhwa full-year 3D GitHub contribution calendar with streak signals" />
+  </picture>
+</p>
+
+<p align="center"><sub>The city rebuilds from live GitHub activity every twelve hours.</sub></p>
+
+<details>
+<summary><strong>🔵 How the signal system stays live</strong></summary>
+<br/>
+
+- The five-point language radar recalculates from public repository bytes every day.
+- The 3D contribution city rebuilds from the full GitHub contribution year every twelve hours.
+- Dark and light radar artwork is stored inside this repository, so both GitHub themes remain readable.
+- The existing contribution snake keeps running as its own interactive arcade game.
 
 </details>
 
