@@ -1,0 +1,11 @@
+{
+  "title": "Code Footprint",
+  "subtitle": "Repository language signals",
+  "axes": [
+    { "label": "Python", "value": 100, "display": "32%" },
+    { "label": "C++", "value": 88, "display": "24%" },
+    { "label": "TypeScript", "value": 78, "display": "18%" },
+    { "label": "JavaScript", "value": 70, "display": "14%" },
+    { "label": "MATLAB", "value": 62, "display": "12%" }
+  ]
+}

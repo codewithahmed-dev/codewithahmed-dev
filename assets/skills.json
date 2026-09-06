@@ -1,0 +1,11 @@
+{
+  "title": "Builder Radar",
+  "subtitle": "Self-rated build strengths",
+  "axes": [
+    { "label": "Software", "value": 92 },
+    { "label": "Data", "value": 88 },
+    { "label": "IoT", "value": 90 },
+    { "label": "Systems", "value": 82 },
+    { "label": "Product", "value": 86 }
+  ]
+}
