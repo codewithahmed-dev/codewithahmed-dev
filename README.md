@@ -538,4 +538,73 @@ ACTIVE          Project Lead | Team Legends
   <code>THINK CLEARLY · BUILD USEFULLY · LEARN CONSTANTLY</code>
 </p>
 
+## Village Badge Wall
+
+<p align="center">
+  <a href="https://github.com/codewithahmed-dev?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-26-74D4FF?style=for-the-badge&logo=github&logoColor=F4FBFF&labelColor=061A2B" alt="26 repositories" /></a>
+  <a href="https://github.com/codewithahmed-dev?tab=repositories"><img src="https://img.shields.io/badge/NEW_WORKING_PROJECTS-15-21A6F6?style=for-the-badge&logo=githubactions&logoColor=F4FBFF&labelColor=061A2B" alt="15 new working projects" /></a>
+  <a href="https://github.com/codewithahmed-dev?tab=stars"><img src="https://img.shields.io/badge/STARRED_REPOSITORIES-15-74D4FF?style=for-the-badge&logo=githubsponsors&logoColor=F4FBFF&labelColor=061A2B" alt="15 starred repositories" /></a>
+  <a href="https://github.com/codewithahmed-labs"><img src="https://img.shields.io/badge/ORGANIZATION-CODEWITHAHMED_LABS-21A6F6?style=for-the-badge&logo=github&logoColor=F4FBFF&labelColor=061A2B" alt="CodeWithAhmed Labs" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE_MODE-SMURF_BUILD_ON-74D4FF?style=flat-square&logo=githubcopilot&logoColor=F4FBFF&labelColor=061A2B" alt="Smurf build mode on" />
+  <img src="https://img.shields.io/badge/PINNED_SHOWCASE-6-21A6F6?style=flat-square&logo=pinboard&logoColor=F4FBFF&labelColor=061A2B" alt="Six pinned projects" />
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_%7C_DATA_%7C_IOT-74D4FF?style=flat-square&logo=blueprint&logoColor=F4FBFF&labelColor=061A2B" alt="Software Data IoT" />
+  <img src="https://img.shields.io/badge/LOCATION-NAVI_MUMBAI-21A6F6?style=flat-square&logo=googlemaps&logoColor=F4FBFF&labelColor=061A2B" alt="Navi Mumbai" />
+</p>
+
+<details>
+<summary><strong>🍄 Open the complete technology badge collection</strong></summary>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-061A2B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-21A6F6?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-061A2B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-061A2B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=74D4FF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-061A2B?style=for-the-badge&logo=python&logoColor=74D4FF" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=061A2B" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-21A6F6?style=for-the-badge&logo=espressif&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/IoT_Engineering-74D4FF?style=for-the-badge&logo=homeassistant&logoColor=061A2B" alt="IoT Engineering" />
+</p>
+
+</details>
+
+## Until the Next Build
+
+<p align="center">
+  <img width="62%" src="smurf-happy-goodbye.gif" alt="Happy blue coder waving goodbye from Ahmed's code village" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting the village. Come back when the next build ships.</strong><br/><br/>
+  <code>KEEP BUILDING · KEEP LEARNING · STAY CURIOUS</code>
+</p>
+
 <p align="center"><sub>Custom fan-made Smurf Code Village visuals created for Ahmed Nakhwa's personal developer profile.</sub></p>
