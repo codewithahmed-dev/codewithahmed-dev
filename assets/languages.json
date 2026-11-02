@@ -5,7 +5,7 @@
     {
       "label": "Scheme",
       "value": 100.0,
-      "display": "64.6%"
+      "display": "64.5%"
     },
     {
       "label": "Python",
@@ -15,12 +15,12 @@
     {
       "label": "JavaScript",
       "value": 30.3,
-      "display": "3.8%"
+      "display": "3.7%"
     },
     {
-      "label": "CSS",
-      "value": 26.1,
-      "display": "2.6%"
+      "label": "MATLAB",
+      "value": 26.7,
+      "display": "2.8%"
     },
     {
       "label": "C++",
